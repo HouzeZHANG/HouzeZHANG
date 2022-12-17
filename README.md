@@ -7,13 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 14 December 2022
+From: 13 December 2022 - To: 15 December 2022
 
-Total Time: 40 mins
+Total Time: 3 hrs 43 mins
 
-Markdown   19 mins         >>>>>>>>>>>>-------------   48.79 %
-C++        12 mins         >>>>>>>>-----------------   30.24 %
-YAML       8 mins          >>>>>--------------------   20.97 %
+C++        2 hrs 44 mins   >>>>>>>>>>>>>>>>>>-------   73.30 %
+Markdown   50 mins         >>>>>>-------------------   22.64 %
+YAML       8 mins          >------------------------   03.97 %
+C          0 secs          -------------------------   00.08 %
+Makefile   0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
