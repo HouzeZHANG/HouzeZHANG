@@ -7,14 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 18 December 2022
+From: 13 December 2022 - To: 19 December 2022
 
-Total Time: 8 hrs 1 min
+Total Time: 14 hrs 29 mins
 
-Python     3 hrs 21 mins   >>>>>>>>>>---------------   41.91 %
-C++        2 hrs 45 mins   >>>>>>>>>----------------   34.46 %
-Markdown   1 hr 22 mins    >>>>---------------------   17.21 %
-Other      14 mins         >------------------------   03.08 %
+Python       8 hrs 28 mins   >>>>>>>>>>>>>>>----------   58.53 %
+C++          2 hrs 45 mins   >>>>>--------------------   19.09 %
+Markdown     2 hrs 12 mins   >>>>---------------------   15.29 %
+SQL          37 mins         >------------------------   04.32 %
+Other        14 mins         -------------------------   01.71 %
 ```
 
 <!--END_SECTION:waka-->
