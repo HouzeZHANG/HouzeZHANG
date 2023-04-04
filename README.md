@@ -7,16 +7,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 01 April 2023
+From: 13 December 2022 - To: 02 April 2023
 
-Total Time: 169 hrs 7 mins
+Total Time: 173 hrs 19 mins
 
-C++              85 hrs 43 mins  >>>>>>>>>>>>>------------   50.69 %
-Java             40 hrs 11 mins  >>>>>>-------------------   23.77 %
-Markdown         11 hrs 36 mins  >>-----------------------   06.87 %
-Python           11 hrs 19 mins  >>-----------------------   06.70 %
-C                11 hrs 17 mins  >>-----------------------   06.67 %
-Other            3 hrs 25 mins   >------------------------   02.03 %
+C++              85 hrs 43 mins  >>>>>>>>>>>>-------------   49.46 %
+Java             41 hrs 50 mins  >>>>>>-------------------   24.14 %
+Markdown         13 hrs 53 mins  >>-----------------------   08.02 %
+Python           11 hrs 19 mins  >>-----------------------   06.54 %
+C                11 hrs 17 mins  >>-----------------------   06.51 %
+Other            3 hrs 25 mins   -------------------------   01.98 %
 ```
 
 <!--END_SECTION:waka-->
