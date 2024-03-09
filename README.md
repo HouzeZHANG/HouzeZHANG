@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently studying at Utc France
-- 🌱 I’m currently learning DataBase and C++
+- 🔭 I’m currently a backend engineer at [@ubisoft](https://github.com/ubisoft)
+- 🌱 I’m currently learning network programming
 - 👯 I’m looking to collaborate on C++ projects
-- 📫 How to reach me: houze.zhang@etu.utc.fr
+- 📫 How to reach me: houze.zhang@outlook.com
 
 <!--START_SECTION:waka-->
 
