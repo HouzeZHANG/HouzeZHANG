@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2022 - To: 07 March 2024
+From: 02 March 2024 - To: 09 March 2024
 
-Total Time: 681 hrs 38 mins
+Total Time: 22 hrs 31 mins
 
-C++                   296 hrs 26 mins >>>>>>>>>>>--------------   43.49 %
-Markdown              79 hrs 49 mins  >>>----------------------   11.71 %
-Java                  65 hrs 15 mins  >>-----------------------   09.57 %
-Go                    60 hrs 14 mins  >>-----------------------   08.84 %
-Python                56 hrs 1 min    >>-----------------------   08.22 %
+C++           15 hrs 24 mins  >>>>>>>>>>>>>>>>>--------   68.40 %
+C             2 hrs 43 mins   >>>----------------------   12.06 %
+XML           1 hr 47 mins    >>-----------------------   07.95 %
+C#            51 mins         >------------------------   03.83 %
+Objective-C   40 mins         >------------------------   03.01 %
 ```
 
 <!--END_SECTION:waka-->
