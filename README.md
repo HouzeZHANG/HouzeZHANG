@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2024 - To: 09 March 2024
+From: 03 March 2024 - To: 10 March 2024
 
 Total Time: 22 hrs 31 mins
 
 C++           15 hrs 24 mins  >>>>>>>>>>>>>>>>>--------   68.40 %
-C             2 hrs 43 mins   >>>----------------------   12.06 %
+C             2 hrs 43 mins   >>>----------------------   12.07 %
 XML           1 hr 47 mins    >>-----------------------   07.95 %
 C#            51 mins         >------------------------   03.83 %
 Objective-C   40 mins         >------------------------   03.01 %
