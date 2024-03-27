@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2024 - To: 25 March 2024
+From: 19 March 2024 - To: 26 March 2024
 
-Total Time: 17 hrs 18 mins
+Total Time: 15 hrs 57 mins
 
-Markdown      10 hrs 17 mins  >>>>>>>>>>>>>>>----------   59.44 %
-C++           4 hrs 1 min     >>>>>>-------------------   23.25 %
-C             52 mins         >------------------------   05.06 %
-Other         49 mins         >------------------------   04.73 %
-TOML          28 mins         >------------------------   02.77 %
+Markdown      8 hrs 49 mins   >>>>>>>>>>>>>>-----------   55.32 %
+C++           3 hrs 51 mins   >>>>>>-------------------   24.14 %
+C             59 mins         >>-----------------------   06.23 %
+Other         49 mins         >------------------------   05.13 %
+XML           37 mins         >------------------------   03.94 %
 ```
 
 <!--END_SECTION:waka-->
