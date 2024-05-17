@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2024 - To: 15 May 2024
+From: 09 May 2024 - To: 16 May 2024
 
-Total Time: 24 hrs 34 mins
+Total Time: 29 hrs 38 mins
 
-C          19 hrs 33 mins  >>>>>>>>>>>>>>>>>>>>-----   79.59 %
-Markdown   2 hrs 6 mins    >>-----------------------   08.57 %
-Python     1 hr 59 mins    >>-----------------------   08.13 %
-JSON       33 mins         >------------------------   02.27 %
-C++        9 mins          -------------------------   00.65 %
+C            24 hrs 23 mins  >>>>>>>>>>>>>>>>>>>>>----   82.30 %
+Markdown     2 hrs 13 mins   >>-----------------------   07.50 %
+Python       1 hr 5 mins     >------------------------   03.67 %
+CMake        1 hr 1 min      >------------------------   03.46 %
+JSON         37 mins         >------------------------   02.11 %
 ```
 
 <!--END_SECTION:waka-->
