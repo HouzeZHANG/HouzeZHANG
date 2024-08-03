@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2024 - To: 01 August 2024
+From: 26 July 2024 - To: 02 August 2024
 
-Total Time: 12 hrs 39 mins
+Total Time: 11 hrs 44 mins
 
-Markdown         7 hrs 55 mins   >>>>>>>>>>>>>>>>---------   62.66 %
-TeX              2 hrs 13 mins   >>>>---------------------   17.55 %
-Python           1 hr 13 mins    >>-----------------------   09.62 %
-C++              1 hr 8 mins     >>-----------------------   08.99 %
-Text             6 mins          -------------------------   00.91 %
+Markdown         11 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.30 %
+C++              10 mins         -------------------------   01.52 %
+Text             6 mins          -------------------------   00.97 %
+TOML             0 secs          -------------------------   00.13 %
+CMakeLists.txt   0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
