@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2024 - To: 02 August 2024
+From: 27 July 2024 - To: 03 August 2024
 
-Total Time: 11 hrs 44 mins
+Total Time: 16 hrs 37 mins
 
-Markdown         11 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.30 %
-C++              10 mins         -------------------------   01.52 %
-Text             6 mins          -------------------------   00.97 %
-TOML             0 secs          -------------------------   00.13 %
-CMakeLists.txt   0 secs          -------------------------   00.05 %
+Markdown         13 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>----   83.61 %
+TypeScript       1 hr 21 mins    >>-----------------------   08.21 %
+HTML             40 mins         >------------------------   04.02 %
+JSON             18 mins         -------------------------   01.90 %
+C++              10 mins         -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->
