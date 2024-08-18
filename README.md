@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2024 - To: 16 August 2024
+From: 10 August 2024 - To: 17 August 2024
 
-Total Time: 2 hrs 51 mins
+Total Time: 2 hrs 28 mins
 
-Python           56 mins         >>>>>>>>-----------------   32.98 %
-Markdown         49 mins         >>>>>>>------------------   28.69 %
-C++              43 mins         >>>>>>-------------------   25.25 %
-SSH Config       13 mins         >>-----------------------   07.90 %
-Other            4 mins          >------------------------   02.88 %
+Python           52 mins         >>>>>>>>>----------------   35.40 %
+C++              50 mins         >>>>>>>>-----------------   33.81 %
+Markdown         17 mins         >>>----------------------   11.66 %
+SSH Config       13 mins         >>-----------------------   09.15 %
+Other            4 mins          >------------------------   03.33 %
 ```
 
 <!--END_SECTION:waka-->
