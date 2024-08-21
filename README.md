@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-Total Time: 1 hr 53 mins
+Total Time: 1 hr 8 mins
 
-Markdown         55 mins         >>>>>>>>>>>>-------------   48.37 %
-C++              27 mins         >>>>>>-------------------   24.09 %
-Python           9 mins          >>-----------------------   08.61 %
-CMake            8 mins          >>-----------------------   07.17 %
-Other            4 mins          >------------------------   04.17 %
+Markdown         38 mins         >>>>>>>>>>>>>>-----------   56.59 %
+Python           8 mins          >>>----------------------   12.83 %
+C++              8 mins          >>>----------------------   12.32 %
+CMake            6 mins          >>>----------------------   10.21 %
+ObjectiveC       2 mins          >------------------------   03.24 %
 ```
 
 <!--END_SECTION:waka-->
